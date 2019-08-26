@@ -1,0 +1,9 @@
+PSEUDOCODE
+1. write ("Input Grades:") ;, read (grades);
+2. if value 0 <34 then "Grades E"
+3. else if value 35 < 49 then "Grades D"
+4. else if value 50 < 64 then "Grades C"
+5. else if value 65 < 79 then "Grades B"
+6. else if value 80 < 100 then "Grades A"
+7. else value < 0 && value > 100 then "invalid grade"
+8. print Grades
